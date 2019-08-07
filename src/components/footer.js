@@ -41,6 +41,7 @@ class Footer extends Component {
                             }}
                         />
                     </a>
+                    <p>&copy;2019 - Danny Yi</p>
                 </div>
             </footer>
         );
