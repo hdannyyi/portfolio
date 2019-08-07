@@ -28,7 +28,15 @@ class RenderProject extends Component {
                                 href={this.props.project.githubLink}
                                 target="_blank"
                             >
-                                GitHub
+                                <i
+                                    className="fab fa-github"
+                                    style={{
+                                        fontSize: "18px",
+                                        margin: "0em 1em",
+                                        color: "#484545",
+                                        padding: "0.25em 0em"
+                                    }}
+                                />
                             </a>
                         </div>
                     </div>

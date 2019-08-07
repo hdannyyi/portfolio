@@ -10,7 +10,7 @@ export const projectList = [
         stack: "JavaScript, CSS",
         description:
             "Restaurant finder application based on user's phone number. User inputs their number and the app spits out all the restaurants in a 5 mile radius",
-        githublink: "https://github.com/hdannyyi/group-project"
+        githubLink: "https://github.com/hdannyyi/group-project"
     },
     {
         title: "Racket Builder",
